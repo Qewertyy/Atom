@@ -17,5 +17,5 @@
 
 ## ScreenShots
 
-![image](https://github.com/Qewertyy/Atom/blob/5703ba3095ea0aa3ad1f0bff0e40b055dfa3f8bb/src/Screenshot%202023-04-28%20145852.png)
-![image](https://github.com/Qewertyy/Atom/blob/5703ba3095ea0aa3ad1f0bff0e40b055dfa3f8bb/src/Screenshot%202023-04-28%20150154.png)
+![image](https://github.com/Qewertyy/Atom/blob/61f5fff83bf967d58510799f5543e305035d133e/src/image1.png)
+![image](https://github.com/Qewertyy/Atom/blob/61f5fff83bf967d58510799f5543e305035d133e/src/image2.png)
