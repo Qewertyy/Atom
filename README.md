@@ -7,11 +7,11 @@
 ### Note: It currently supports a Single HTML file.
 
 * ## To-Do list
-  - Less Complexity in UI
-  - Need add to support for directories like compiled dirs(reactjs), static files etc
-  - Multi Host
-  - Changes in flow of the system
-  - Mobile Responsive
+  - [ ] Less Complexity in UI
+  - [ ] Need add to support for directories like compiled dirs(reactjs), static files etc
+  - [ ] Multi Host
+  - [ ] Changes in flow of the system
+  - [ ] Mobile Responsive
 
 #### Drop your ideas/Suggestions at [@AniHubX](https://t.me/AniHubXDevs)
 
