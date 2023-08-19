@@ -13,7 +13,7 @@
   - [ ] Changes in flow of the system
   - [ ] Mobile Responsive
 
-#### Drop your ideas/Suggestions at [@AniHubX](https://t.me/AniHubXDevs)
+#### Drop your ideas/Suggestions at [Qewertyy](https://t.me/Qewertyy)
 
 ## ScreenShots
 
