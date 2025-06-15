@@ -1,6 +1,6 @@
-# [Atom](https://atom.qewertyy.me)
+# [Atom](https://atom.qewertyy.dev)
 
-## A Decentralized Web Hosting System, Check out [Atom](https://atom.qewertyy.me) for clear idea about it.
+## A Decentralized Web Hosting System, Check out [Atom](https://atom.qewertyy.dev) for clear idea about it.
 
 ### The repository is currently private due to abuse of open source systems.
 
